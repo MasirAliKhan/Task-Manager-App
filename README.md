@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Task Manager Web Application
 
 A full-featured task management application built with Node.js, Express, MongoDB, and React.
@@ -123,3 +124,6 @@ This project is licensed under the MIT License.
 # Task-Manager-App
 # Task Manager Web App  A modern task management application with calendar view, analytics dashboard, and real-time updates. Built with React, Node.js, and MongoDB.  Features: - 📅 Interactive calendar - 📊 Analytics dashboard - 🎯 Task prioritization - 🔍 Search &amp; filters - 🌙 Dark mode
 >>>>>>> e0735da1677c301db0f45c33f4541f860ec07ce3
+=======
+# Task-Manager-App
+>>>>>>> c79aa701c80efd94e069aa3d7da0b357753b7d6d
